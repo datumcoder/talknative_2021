@@ -75,12 +75,12 @@
 		font-size: 1.1em;
 		font-family: monospace;
 		background-color:#4169e1!important;
-		color: white !important;
+		color: rgb(237, 237, 237) !important;
 
 	}
 	button.TUIr4b:hover{
 		background-color: rgb(255, 17, 0)!important;
-		color: white !important;
+		color: rgb(237, 237, 237) !important;
 
 	}
 /* Box Model */
